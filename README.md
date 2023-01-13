@@ -5,9 +5,8 @@
 <p align="center">
   I believe in the strength of communication and collaboration<br/>
   hope the work I do bring good to the world<br/><br/>
-  🇰🇷
 </p>
-
+<br>
 <h3 align="center">🍳 Back Tech Stack 🍳</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/CSharp-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
@@ -15,20 +14,21 @@
   <img src="https://img.shields.io/badge/ES6-00599C?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>&nbsp 
 </p>
+<br>
 <h3 align="center">💽 DataBase Tech Stack 💽</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SQLServer-00599C?style=flat&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
-
+<br>
 <h3 align="center">📺 Front Tech Stack 📺</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>&nbsp
 
 </p>
-
+<br>
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Android Studio-00599C?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
-
+<br>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/JongWon112/">
@@ -48,9 +48,11 @@
   
 <br>
 <h3 align="center">💡 My Git View Count 💡</h3>
-<p align="center">
+<p align="center" >
 
 <!-- Git View Count -->
+<p align="center" >
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJongWon112%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
 
