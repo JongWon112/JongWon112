@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling&theme=radical)
 
-<h2 align="center"> Hi👋, I'm Jihwan!🤗</h2>
+<h2 align="center"> Hi👋, I'm JongWon!🤗</h2>
 <h3 align="center">I am junior back-end developer who love development</h3>
 <p align="center">
   I believe in the strength of communication and collaboration<br/>
@@ -10,57 +10,34 @@
 
 <h3 align="center">🍳 Back Tech Stack 🍳</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/ES6-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TypeScript-005571?style=flat&logo=ts-node&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/NodeJS-11B48A?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-00599C?style=flat&logo=express&logoColor=white"/></a>&nbsp
-  <br>
+  <img src="https://img.shields.io/badge/CSharp-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ES6-00599C?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/></a>&nbsp 
 </p>
 <h3 align="center">💽 DataBase Tech Stack 💽</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Maria-00599C?style=flat&logo=mariadb&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-3766AB?style=flat&logo=mongodb&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Sequelize-A8B9CC?style=flat&logo=Sequelize&logoColor=white"/></a>&nbsp 
-</p>
-  
-<h3 align="center">📎 Ect Tech Stack 📎</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-DB3552?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SQLServer-00599C?style=flat&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">📺 Front Tech Stack 📺</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ejs-00599C?style=fla&logo=AzurePipelines&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-00599C?style=flat&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Flutter-ffb13b?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-005571?style=flat&logo=React&logoColor=white"/></a>&nbsp
+
 </p>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-DB3552?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eclipse IDE-11B48A?style=flat&logo=EclipseIDE&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Android Studio-00599C?style=flat&logo=AndroidStudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-333664?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center"> 🌈 My SMS 🌈 </h3>
-<p align="center">
-  <a href="https://velog.io/@easyhwan"><img src="https://img.shields.io/badge/Blog-11B48A?         style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@easyhwan"/></a>&nbsp
-  <a href="https://www.instagram.com/easyhawn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/easyhawn/"/></a>&nbsp
-  <a href="mailto:easyhwan97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=easyhwan97@gmail.com"/></a>
-</p>
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/Easy-Hwan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Hwan&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
-  </a>
-</p>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/Easy-Hwan">
